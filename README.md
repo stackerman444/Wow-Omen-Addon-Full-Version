@@ -240,4 +240,4 @@ This repository serves as the official landing page for WOW Omen Addon. The soft
 **Get the most recent version of WOW Omen Addon today!**
 
 ---
-**Last updated:** 2026-10-18 19:03:49 UTC
+**Last updated:** 2026-10-18 22:01:21 UTC
